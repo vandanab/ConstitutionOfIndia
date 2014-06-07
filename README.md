@@ -1,4 +1,4 @@
 ConstitutionOfIndia
 ===================
 
-The code for Constitution of India, Code for India project
+The code for Constitution of India, a Code for India project
